@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="52" passed="52" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T14:36:04 EDT" name="Suite1" finished-at="2023-09-29T14:37:40 EDT" duration-ms="96364">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T14:36:04 EDT" name="Chrome" finished-at="2023-09-29T14:36:38 EDT" duration-ms="34653">
+      <class name="com.askomdch.testcases.HomeTest">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:04 EDT" name="startDriver" finished-at="2023-09-29T14:36:09 EDT" duration-ms="4824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:04 EDT" name="startDriver" finished-at="2023-09-29T14:36:09 EDT" duration-ms="4937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:04 EDT" name="startDriver" finished-at="2023-09-29T14:36:09 EDT" duration-ms="4834" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:04 EDT" name="startDriver" finished-at="2023-09-29T14:36:08 EDT" duration-ms="4814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:04 EDT" name="startDriver" finished-at="2023-09-29T14:36:09 EDT" duration-ms="5072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:09 EDT" name="setUp" finished-at="2023-09-29T14:36:11 EDT" duration-ms="2220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:09 EDT" name="setUp" finished-at="2023-09-29T14:36:11 EDT" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:09 EDT" name="setUp" finished-at="2023-09-29T14:36:10 EDT" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:09 EDT" name="setUp" finished-at="2023-09-29T14:36:11 EDT" duration-ms="2231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:09 EDT" name="setUp" finished-at="2023-09-29T14:36:10 EDT" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testArticleImageTwo()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:10 EDT" name="testArticleImageTwo" finished-at="2023-09-29T14:36:10 EDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleImageTwo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:10 EDT" name="tearDown" finished-at="2023-09-29T14:36:10 EDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:10 EDT" name="startDriver" finished-at="2023-09-29T14:36:13 EDT" duration-ms="2559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleOneShopNowLinkHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:10 EDT" name="testArticleOneShopNowLinkHrefAttr" finished-at="2023-09-29T14:36:10 EDT" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneShopNowLinkHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:10 EDT" name="tearDown" finished-at="2023-09-29T14:36:11 EDT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="startDriver" finished-at="2023-09-29T14:36:13 EDT" duration-ms="2851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleImageOne()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="testArticleImageOne" finished-at="2023-09-29T14:36:11 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleImageOne -->
+        <test-method signature="testArticleOneParagraphText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="testArticleOneParagraphText" finished-at="2023-09-29T14:36:11 EDT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneParagraphText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="tearDown" finished-at="2023-09-29T14:36:11 EDT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleOneHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="testArticleOneHeaderText" finished-at="2023-09-29T14:36:11 EDT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="tearDown" finished-at="2023-09-29T14:36:12 EDT" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="tearDown" finished-at="2023-09-29T14:36:12 EDT" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:11 EDT" name="startDriver" finished-at="2023-09-29T14:36:14 EDT" duration-ms="3011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:12 EDT" name="startDriver" finished-at="2023-09-29T14:36:14 EDT" duration-ms="2803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:12 EDT" name="startDriver" finished-at="2023-09-29T14:36:14 EDT" duration-ms="2830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:13 EDT" name="setUp" finished-at="2023-09-29T14:36:16 EDT" duration-ms="3130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:13 EDT" name="setUp" finished-at="2023-09-29T14:36:16 EDT" duration-ms="2229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:14 EDT" name="setUp" finished-at="2023-09-29T14:36:16 EDT" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:14 EDT" name="setUp" finished-at="2023-09-29T14:36:17 EDT" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:14 EDT" name="setUp" finished-at="2023-09-29T14:36:17 EDT" duration-ms="2379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testArticleTwoParagraphText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="testArticleTwoParagraphText" finished-at="2023-09-29T14:36:16 EDT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoParagraphText -->
+        <test-method signature="testArticleTwoHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="testArticleTwoHeaderText" finished-at="2023-09-29T14:36:16 EDT" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="tearDown" finished-at="2023-09-29T14:36:16 EDT" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="tearDown" finished-at="2023-09-29T14:36:16 EDT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="startDriver" finished-at="2023-09-29T14:36:18 EDT" duration-ms="2498" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleOneShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="testArticleOneShopNowLinkText" finished-at="2023-09-29T14:36:16 EDT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneShopNowLinkText -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="startDriver" finished-at="2023-09-29T14:36:18 EDT" duration-ms="2475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="tearDown" finished-at="2023-09-29T14:36:16 EDT" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:16 EDT" name="startDriver" finished-at="2023-09-29T14:36:19 EDT" duration-ms="3042" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleTwoShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:17 EDT" name="testArticleTwoShopNowLinkText" finished-at="2023-09-29T14:36:17 EDT" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoShopNowLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:17 EDT" name="tearDown" finished-at="2023-09-29T14:36:19 EDT" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleTwoShopNowLinkHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:17 EDT" name="testArticleTwoShopNowLinkHrefAttr" finished-at="2023-09-29T14:36:17 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoShopNowLinkHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:17 EDT" name="tearDown" finished-at="2023-09-29T14:36:19 EDT" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:18 EDT" name="setUp" finished-at="2023-09-29T14:36:21 EDT" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:18 EDT" name="setUp" finished-at="2023-09-29T14:36:20 EDT" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:19 EDT" name="startDriver" finished-at="2023-09-29T14:36:21 EDT" duration-ms="2635" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:19 EDT" name="startDriver" finished-at="2023-09-29T14:36:22 EDT" duration-ms="2752" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:19 EDT" name="setUp" finished-at="2023-09-29T14:36:21 EDT" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClickingOnFindMoreLinkOpensContactUsPage()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:20 EDT" name="testClickingOnFindMoreLinkOpensContactUsPage" finished-at="2023-09-29T14:36:22 EDT" duration-ms="1305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnFindMoreLinkOpensContactUsPage -->
+        <test-method signature="testClickingOnShopNowLinkOpensProductCategoryMenPage()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:21 EDT" name="testClickingOnShopNowLinkOpensProductCategoryMenPage" finished-at="2023-09-29T14:36:23 EDT" duration-ms="2621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensProductCategoryMenPage -->
+        <test-method signature="testClickingOnShopNowLinkOpensProductCategoryWomenPage()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:21 EDT" name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" finished-at="2023-09-29T14:36:25 EDT" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensProductCategoryWomenPage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:21 EDT" name="setUp" finished-at="2023-09-29T14:36:24 EDT" duration-ms="2977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:22 EDT" name="setUp" finished-at="2023-09-29T14:36:24 EDT" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:22 EDT" name="tearDown" finished-at="2023-09-29T14:36:22 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:22 EDT" name="startDriver" finished-at="2023-09-29T14:36:24 EDT" duration-ms="1813" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:23 EDT" name="tearDown" finished-at="2023-09-29T14:36:24 EDT" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:24 EDT" name="startDriver" finished-at="2023-09-29T14:36:26 EDT" duration-ms="2320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:24 EDT" name="setUp" finished-at="2023-09-29T14:36:26 EDT" duration-ms="2840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClickingOnShopNowLinkOpensStorePage()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:24 EDT" name="testClickingOnShopNowLinkOpensStorePage" finished-at="2023-09-29T14:36:27 EDT" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensStorePage -->
+        <test-method signature="testEmptyCartText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:24 EDT" name="testEmptyCartText" finished-at="2023-09-29T14:36:25 EDT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyCartText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:25 EDT" name="tearDown" finished-at="2023-09-29T14:36:25 EDT" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:25 EDT" name="tearDown" finished-at="2023-09-29T14:36:25 EDT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:25 EDT" name="startDriver" finished-at="2023-09-29T14:36:27 EDT" duration-ms="2539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:25 EDT" name="startDriver" finished-at="2023-09-29T14:36:27 EDT" duration-ms="2289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:26 EDT" name="setUp" finished-at="2023-09-29T14:36:30 EDT" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFindMoreHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:26 EDT" name="testFindMoreHrefAttr" finished-at="2023-09-29T14:36:27 EDT" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindMoreHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="tearDown" finished-at="2023-09-29T14:36:27 EDT" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="startDriver" finished-at="2023-09-29T14:36:29 EDT" duration-ms="2557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="tearDown" finished-at="2023-09-29T14:36:27 EDT" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="setUp" finished-at="2023-09-29T14:36:30 EDT" duration-ms="2332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="setUp" finished-at="2023-09-29T14:36:29 EDT" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:27 EDT" name="startDriver" finished-at="2023-09-29T14:36:30 EDT" duration-ms="2442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testLogoText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:29 EDT" name="testLogoText" finished-at="2023-09-29T14:36:29 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:29 EDT" name="tearDown" finished-at="2023-09-29T14:36:29 EDT" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:29 EDT" name="startDriver" finished-at="2023-09-29T14:36:32 EDT" duration-ms="2702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:29 EDT" name="setUp" finished-at="2023-09-29T14:36:32 EDT" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNavbarContentText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="testNavbarContentText" finished-at="2023-09-29T14:36:30 EDT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavbarContentText -->
+        <test-method signature="testFindMoreLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="testFindMoreLinkText" finished-at="2023-09-29T14:36:30 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindMoreLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="tearDown" finished-at="2023-09-29T14:36:30 EDT" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="tearDown" finished-at="2023-09-29T14:36:30 EDT" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="setUp" finished-at="2023-09-29T14:36:32 EDT" duration-ms="2541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="startDriver" finished-at="2023-09-29T14:36:33 EDT" duration-ms="2800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:30 EDT" name="startDriver" finished-at="2023-09-29T14:36:33 EDT" duration-ms="2821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testPageHeaderFontWeight()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:32 EDT" name="testPageHeaderFontWeight" finished-at="2023-09-29T14:36:32 EDT" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageHeaderFontWeight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:32 EDT" name="tearDown" finished-at="2023-09-29T14:36:32 EDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:32 EDT" name="setUp" finished-at="2023-09-29T14:36:35 EDT" duration-ms="3043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:32 EDT" name="startDriver" finished-at="2023-09-29T14:36:34 EDT" duration-ms="2524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testPageHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:32 EDT" name="testPageHeaderText" finished-at="2023-09-29T14:36:33 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:33 EDT" name="tearDown" finished-at="2023-09-29T14:36:33 EDT" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:33 EDT" name="setUp" finished-at="2023-09-29T14:36:36 EDT" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:33 EDT" name="setUp" finished-at="2023-09-29T14:36:34 EDT" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:33 EDT" name="startDriver" finished-at="2023-09-29T14:36:35 EDT" duration-ms="2354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testShopNowHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:34 EDT" name="testShopNowHrefAttr" finished-at="2023-09-29T14:36:34 EDT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShopNowHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:34 EDT" name="tearDown" finished-at="2023-09-29T14:36:35 EDT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:34 EDT" name="setUp" finished-at="2023-09-29T14:36:36 EDT" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPageSubHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:35 EDT" name="testPageSubHeaderText" finished-at="2023-09-29T14:36:35 EDT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageSubHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:35 EDT" name="tearDown" finished-at="2023-09-29T14:36:35 EDT" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:35 EDT" name="setUp" finished-at="2023-09-29T14:36:37 EDT" duration-ms="1855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:36 EDT" name="testShopNowLinkText" finished-at="2023-09-29T14:36:36 EDT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShopNowLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:36 EDT" name="tearDown" finished-at="2023-09-29T14:36:36 EDT" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testPageTitle()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:36 EDT" name="testPageTitle" finished-at="2023-09-29T14:36:36 EDT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:36 EDT" name="tearDown" finished-at="2023-09-29T14:36:36 EDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testStoreHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:37 EDT" name="testStoreHeaderText" finished-at="2023-09-29T14:36:38 EDT" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStoreHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@2bbf180e]" started-at="2023-09-29T14:36:38 EDT" name="tearDown" finished-at="2023-09-29T14:36:38 EDT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askomdch.testcases.HomeTest -->
+    </test> <!-- Chrome -->
+    <test started-at="2023-09-29T14:36:39 EDT" name="Firefox" finished-at="2023-09-29T14:37:40 EDT" duration-ms="61491">
+      <class name="com.askomdch.testcases.HomeTest">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:39 EDT" name="startDriver" finished-at="2023-09-29T14:36:46 EDT" duration-ms="7421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:39 EDT" name="startDriver" finished-at="2023-09-29T14:36:47 EDT" duration-ms="8796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:39 EDT" name="startDriver" finished-at="2023-09-29T14:36:47 EDT" duration-ms="8126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:39 EDT" name="startDriver" finished-at="2023-09-29T14:36:46 EDT" duration-ms="7633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:39 EDT" name="startDriver" finished-at="2023-09-29T14:36:47 EDT" duration-ms="8278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:46 EDT" name="setUp" finished-at="2023-09-29T14:36:51 EDT" duration-ms="5491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:46 EDT" name="setUp" finished-at="2023-09-29T14:36:50 EDT" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:47 EDT" name="setUp" finished-at="2023-09-29T14:36:51 EDT" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:47 EDT" name="setUp" finished-at="2023-09-29T14:36:51 EDT" duration-ms="3800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:47 EDT" name="setUp" finished-at="2023-09-29T14:36:52 EDT" duration-ms="4204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testArticleImageOne()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:50 EDT" name="testArticleImageOne" finished-at="2023-09-29T14:36:50 EDT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleImageOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:50 EDT" name="tearDown" finished-at="2023-09-29T14:36:52 EDT" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleOneParagraphText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:51 EDT" name="testArticleOneParagraphText" finished-at="2023-09-29T14:36:51 EDT" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneParagraphText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:51 EDT" name="tearDown" finished-at="2023-09-29T14:36:52 EDT" duration-ms="1572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleOneShopNowLinkHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:51 EDT" name="testArticleOneShopNowLinkHrefAttr" finished-at="2023-09-29T14:36:51 EDT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneShopNowLinkHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:51 EDT" name="tearDown" finished-at="2023-09-29T14:36:52 EDT" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleOneHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:51 EDT" name="testArticleOneHeaderText" finished-at="2023-09-29T14:36:52 EDT" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneHeaderText -->
+        <test-method signature="testArticleImageTwo()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="testArticleImageTwo" finished-at="2023-09-29T14:36:52 EDT" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleImageTwo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="tearDown" finished-at="2023-09-29T14:36:53 EDT" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="tearDown" finished-at="2023-09-29T14:36:53 EDT" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="startDriver" finished-at="2023-09-29T14:36:59 EDT" duration-ms="6675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="startDriver" finished-at="2023-09-29T14:36:59 EDT" duration-ms="6562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:52 EDT" name="startDriver" finished-at="2023-09-29T14:36:59 EDT" duration-ms="6227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:53 EDT" name="startDriver" finished-at="2023-09-29T14:37:00 EDT" duration-ms="7053" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:53 EDT" name="startDriver" finished-at="2023-09-29T14:36:59 EDT" duration-ms="6539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:59 EDT" name="setUp" finished-at="2023-09-29T14:37:00 EDT" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:59 EDT" name="setUp" finished-at="2023-09-29T14:37:00 EDT" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:59 EDT" name="setUp" finished-at="2023-09-29T14:37:01 EDT" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:36:59 EDT" name="setUp" finished-at="2023-09-29T14:37:03 EDT" duration-ms="3649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testArticleOneShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:00 EDT" name="testArticleOneShopNowLinkText" finished-at="2023-09-29T14:37:00 EDT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleOneShopNowLinkText -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:00 EDT" name="setUp" finished-at="2023-09-29T14:37:02 EDT" duration-ms="2191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:00 EDT" name="tearDown" finished-at="2023-09-29T14:37:01 EDT" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleTwoParagraphText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:00 EDT" name="testArticleTwoParagraphText" finished-at="2023-09-29T14:37:00 EDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoParagraphText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:00 EDT" name="tearDown" finished-at="2023-09-29T14:37:01 EDT" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:01 EDT" name="startDriver" finished-at="2023-09-29T14:37:07 EDT" duration-ms="6059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:01 EDT" name="startDriver" finished-at="2023-09-29T14:37:07 EDT" duration-ms="6057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleTwoHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:01 EDT" name="testArticleTwoHeaderText" finished-at="2023-09-29T14:37:01 EDT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:01 EDT" name="tearDown" finished-at="2023-09-29T14:37:03 EDT" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testArticleTwoShopNowLinkHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:02 EDT" name="testArticleTwoShopNowLinkHrefAttr" finished-at="2023-09-29T14:37:02 EDT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoShopNowLinkHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:02 EDT" name="tearDown" finished-at="2023-09-29T14:37:04 EDT" duration-ms="1542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:03 EDT" name="startDriver" finished-at="2023-09-29T14:37:09 EDT" duration-ms="5937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testArticleTwoShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:03 EDT" name="testArticleTwoShopNowLinkText" finished-at="2023-09-29T14:37:03 EDT" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArticleTwoShopNowLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:03 EDT" name="tearDown" finished-at="2023-09-29T14:37:04 EDT" duration-ms="1283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:04 EDT" name="startDriver" finished-at="2023-09-29T14:37:11 EDT" duration-ms="6891" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:04 EDT" name="startDriver" finished-at="2023-09-29T14:37:12 EDT" duration-ms="7567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:07 EDT" name="setUp" finished-at="2023-09-29T14:37:09 EDT" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:07 EDT" name="setUp" finished-at="2023-09-29T14:37:08 EDT" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClickingOnShopNowLinkOpensProductCategoryMenPage()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:08 EDT" name="testClickingOnShopNowLinkOpensProductCategoryMenPage" finished-at="2023-09-29T14:37:12 EDT" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensProductCategoryMenPage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:09 EDT" name="setUp" finished-at="2023-09-29T14:37:11 EDT" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testClickingOnFindMoreLinkOpensContactUsPage()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:09 EDT" name="testClickingOnFindMoreLinkOpensContactUsPage" finished-at="2023-09-29T14:37:11 EDT" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnFindMoreLinkOpensContactUsPage -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:11 EDT" name="setUp" finished-at="2023-09-29T14:37:13 EDT" duration-ms="2404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:11 EDT" name="tearDown" finished-at="2023-09-29T14:37:12 EDT" duration-ms="1340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testClickingOnShopNowLinkOpensProductCategoryWomenPage()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:11 EDT" name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" finished-at="2023-09-29T14:37:13 EDT" duration-ms="1926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensProductCategoryWomenPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:12 EDT" name="tearDown" finished-at="2023-09-29T14:37:13 EDT" duration-ms="1204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:12 EDT" name="setUp" finished-at="2023-09-29T14:37:14 EDT" duration-ms="2033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:12 EDT" name="startDriver" finished-at="2023-09-29T14:37:20 EDT" duration-ms="7274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:13 EDT" name="startDriver" finished-at="2023-09-29T14:37:20 EDT" duration-ms="6894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testClickingOnShopNowLinkOpensStorePage()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:13 EDT" name="testClickingOnShopNowLinkOpensStorePage" finished-at="2023-09-29T14:37:16 EDT" duration-ms="2997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickingOnShopNowLinkOpensStorePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:13 EDT" name="tearDown" finished-at="2023-09-29T14:37:15 EDT" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testEmptyCartText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:14 EDT" name="testEmptyCartText" finished-at="2023-09-29T14:37:14 EDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyCartText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:14 EDT" name="tearDown" finished-at="2023-09-29T14:37:15 EDT" duration-ms="1276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:15 EDT" name="startDriver" finished-at="2023-09-29T14:37:21 EDT" duration-ms="6437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:15 EDT" name="startDriver" finished-at="2023-09-29T14:37:21 EDT" duration-ms="6057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:16 EDT" name="tearDown" finished-at="2023-09-29T14:37:18 EDT" duration-ms="1890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:18 EDT" name="startDriver" finished-at="2023-09-29T14:37:24 EDT" duration-ms="6330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:20 EDT" name="setUp" finished-at="2023-09-29T14:37:21 EDT" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:20 EDT" name="setUp" finished-at="2023-09-29T14:37:21 EDT" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:21 EDT" name="setUp" finished-at="2023-09-29T14:37:24 EDT" duration-ms="2669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFindMoreLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:21 EDT" name="testFindMoreLinkText" finished-at="2023-09-29T14:37:21 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindMoreLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:21 EDT" name="tearDown" finished-at="2023-09-29T14:37:23 EDT" duration-ms="1457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:21 EDT" name="setUp" finished-at="2023-09-29T14:37:22 EDT" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFindMoreHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:21 EDT" name="testFindMoreHrefAttr" finished-at="2023-09-29T14:37:22 EDT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindMoreHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:22 EDT" name="tearDown" finished-at="2023-09-29T14:37:23 EDT" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testNavbarContentText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:22 EDT" name="testNavbarContentText" finished-at="2023-09-29T14:37:22 EDT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavbarContentText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:22 EDT" name="tearDown" finished-at="2023-09-29T14:37:24 EDT" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:23 EDT" name="startDriver" finished-at="2023-09-29T14:37:28 EDT" duration-ms="5708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:23 EDT" name="startDriver" finished-at="2023-09-29T14:37:29 EDT" duration-ms="5772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:24 EDT" name="startDriver" finished-at="2023-09-29T14:37:30 EDT" duration-ms="6134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testLogoText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:24 EDT" name="testLogoText" finished-at="2023-09-29T14:37:24 EDT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:24 EDT" name="tearDown" finished-at="2023-09-29T14:37:25 EDT" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:24 EDT" name="setUp" finished-at="2023-09-29T14:37:27 EDT" duration-ms="2684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:25 EDT" name="startDriver" finished-at="2023-09-29T14:37:31 EDT" duration-ms="6240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testPageHeaderFontWeight()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:27 EDT" name="testPageHeaderFontWeight" finished-at="2023-09-29T14:37:27 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageHeaderFontWeight -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:27 EDT" name="tearDown" finished-at="2023-09-29T14:37:28 EDT" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:28 EDT" name="startDriver" finished-at="2023-09-29T14:37:34 EDT" duration-ms="5793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:28 EDT" name="setUp" finished-at="2023-09-29T14:37:32 EDT" duration-ms="3357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:29 EDT" name="setUp" finished-at="2023-09-29T14:37:30 EDT" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:30 EDT" name="setUp" finished-at="2023-09-29T14:37:31 EDT" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPageSubHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:30 EDT" name="testPageSubHeaderText" finished-at="2023-09-29T14:37:30 EDT" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageSubHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:30 EDT" name="tearDown" finished-at="2023-09-29T14:37:31 EDT" duration-ms="1276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:31 EDT" name="startDriver" finished-at="2023-09-29T14:37:36 EDT" duration-ms="4566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="testPageTitle()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:31 EDT" name="testPageTitle" finished-at="2023-09-29T14:37:31 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:31 EDT" name="tearDown" finished-at="2023-09-29T14:37:33 EDT" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:31 EDT" name="setUp" finished-at="2023-09-29T14:37:32 EDT" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPageHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:32 EDT" name="testPageHeaderText" finished-at="2023-09-29T14:37:32 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:32 EDT" name="tearDown" finished-at="2023-09-29T14:37:33 EDT" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testShopNowHrefAttr()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:32 EDT" name="testShopNowHrefAttr" finished-at="2023-09-29T14:37:32 EDT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShopNowHrefAttr -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:32 EDT" name="tearDown" finished-at="2023-09-29T14:37:34 EDT" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:34 EDT" name="setUp" finished-at="2023-09-29T14:37:35 EDT" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testShopNowLinkText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:35 EDT" name="testShopNowLinkText" finished-at="2023-09-29T14:37:35 EDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShopNowLinkText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:35 EDT" name="tearDown" finished-at="2023-09-29T14:37:36 EDT" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:36 EDT" name="setUp" finished-at="2023-09-29T14:37:38 EDT" duration-ms="1726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testStoreHeaderText()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:38 EDT" name="testStoreHeaderText" finished-at="2023-09-29T14:37:39 EDT" duration-ms="1813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStoreHeaderText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.askomdch.testcases.HomeTest@5bd03f44]" started-at="2023-09-29T14:37:39 EDT" name="tearDown" finished-at="2023-09-29T14:37:40 EDT" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.askomdch.testcases.HomeTest -->
+    </test> <!-- Firefox -->
+  </suite> <!-- Suite1 -->
+</testng-results>
