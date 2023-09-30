@@ -188,4 +188,11 @@ public class HomeTest extends BaseTest {
         String expResult = new HomePage(getDriver()).clickArticleTwoShopNowLink().getHeaderText();
         Assert.assertEquals(expResult, "Men");
     }
+
+    @Test
+    public void testFeaturedProductsText() {
+        HomePage homePage = new HomePage(getDriver());
+        Assert.assertEquals(homePage.getFeaturedProductsText(), "Featured Products");
+        Assert.assertTrue(homePage.featuredProductsIsDisplayed());
+    }
 }

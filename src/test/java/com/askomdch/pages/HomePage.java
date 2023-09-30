@@ -26,6 +26,7 @@ public class HomePage extends BasePage {
     private final By articleTwoHeader = By.xpath(("//h3[normalize-space()='Latest Eyewear']"));
     private final By articleTwoParagraph = By.xpath(("(//p[contains(text(),'Lorem ipsum dolor sit amet consectetur')])[2]"));
     private final By articleTwoShopNowLink = By.xpath(("(//a[@href='https://askomdch.com/product-category/men/'][normalize-space()='Shop Now'])[1]"));
+    private final By featuredProducts = By.cssSelector("h2[class='has-text-align-center']");
 
     public HomePage(WebDriver driver) {
         super(driver);
@@ -146,5 +147,13 @@ public class HomePage extends BasePage {
     public ProductCategoryMenPage clickArticleTwoShopNowLink() {
         driver.findElement(articleTwoShopNowLink).click();
         return new ProductCategoryMenPage(driver);
+    }
+
+    public String getFeaturedProductsText() {
+        return driver.findElement(featuredProducts).getText();
+    }
+
+    public boolean featuredProductsIsDisplayed() {
+        return driver.findElement(featuredProducts).isDisplayed();
     }
 }
