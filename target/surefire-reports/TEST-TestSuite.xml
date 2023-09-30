@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="96.891" tests="52" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="100.024" tests="54" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/test-classes:/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/classes:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-java/4.12.1/selenium-java-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/sachinroy/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sachinroy/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/sachinroy/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/sachinroy/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/sachinroy/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.12.1/selenium-chromium-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-json/4.12.1/selenium-json-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.12.1/selenium-manager-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v114/4.12.1/selenium-devtools-v114-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.12.1/selenium-devtools-v115-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.12.1/selenium-devtools-v116-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.12.1/selenium-devtools-v85-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-http/4.12.1/selenium-http-4.12.1.jar:/Users/sachinroy/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.12.1/selenium-ie-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.12.1/selenium-remote-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/sachinroy/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/sachinroy/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/sachinroy/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-os/4.12.1/selenium-os-4.12.1.jar:/Users/sachinroy/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.12.1/selenium-safari-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-support/4.12.1/selenium-support-4.12.1.jar:/Users/sachinroy/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sachinroy/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sachinroy/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sachinroy/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
+    <property name="java.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/test-classes:/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/classes:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-java/4.12.1/selenium-java-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/sachinroy/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sachinroy/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/sachinroy/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/sachinroy/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/sachinroy/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.12.1/selenium-chromium-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-json/4.12.1/selenium-json-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.12.1/selenium-manager-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v114/4.12.1/selenium-devtools-v114-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.12.1/selenium-devtools-v115-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.12.1/selenium-devtools-v116-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.12.1/selenium-devtools-v85-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-http/4.12.1/selenium-http-4.12.1.jar:/Users/sachinroy/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.12.1/selenium-ie-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.12.1/selenium-remote-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/sachinroy/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/sachinroy/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/sachinroy/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-os/4.12.1/selenium-os-4.12.1.jar:/Users/sachinroy/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.12.1/selenium-safari-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-support/4.12.1/selenium-support-4.12.1.jar:/Users/sachinroy/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sachinroy/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sachinroy/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sachinroy/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
@@ -13,10 +13,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BF"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/surefire/surefirebooter3738384004828076097.jar /Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/surefire 2023-09-29T14-36-03_082-jvmRun1 surefire3074812853456915208tmp surefire_03904775439732990629tmp"/>
+    <property name="sun.java.command" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/surefire/surefirebooter15909286766060140612.jar /Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/surefire 2023-09-29T21-38-25_254-jvmRun1 surefire14644632561276051548tmp surefire_010505260191485753985tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/test-classes:/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/classes:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-java/4.12.1/selenium-java-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/sachinroy/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sachinroy/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/sachinroy/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/sachinroy/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/sachinroy/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.12.1/selenium-chromium-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-json/4.12.1/selenium-json-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.12.1/selenium-manager-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v114/4.12.1/selenium-devtools-v114-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.12.1/selenium-devtools-v115-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.12.1/selenium-devtools-v116-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.12.1/selenium-devtools-v85-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-http/4.12.1/selenium-http-4.12.1.jar:/Users/sachinroy/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.12.1/selenium-ie-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.12.1/selenium-remote-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/sachinroy/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/sachinroy/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/sachinroy/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-os/4.12.1/selenium-os-4.12.1.jar:/Users/sachinroy/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.12.1/selenium-safari-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-support/4.12.1/selenium-support-4.12.1.jar:/Users/sachinroy/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sachinroy/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sachinroy/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sachinroy/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/test-classes:/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/classes:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-java/4.12.1/selenium-java-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-api/4.12.1/selenium-api-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.12.1/selenium-chrome-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/sachinroy/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/sachinroy/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sachinroy/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/sachinroy/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/sachinroy/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/sachinroy/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.12.1/selenium-chromium-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-json/4.12.1/selenium-json-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.12.1/selenium-manager-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v114/4.12.1/selenium-devtools-v114-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.12.1/selenium-devtools-v115-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.12.1/selenium-devtools-v116-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.12.1/selenium-devtools-v85-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.12.1/selenium-edge-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.12.1/selenium-firefox-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-http/4.12.1/selenium-http-4.12.1.jar:/Users/sachinroy/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.12.1/selenium-ie-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.12.1/selenium-remote-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar:/Users/sachinroy/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar:/Users/sachinroy/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/sachinroy/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/sachinroy/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/sachinroy/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/sachinroy/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/sachinroy/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/sachinroy/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-os/4.12.1/selenium-os-4.12.1.jar:/Users/sachinroy/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.12.1/selenium-safari-driver-4.12.1.jar:/Users/sachinroy/.m2/repository/org/seleniumhq/selenium/selenium-support/4.12.1/selenium-support-4.12.1.jar:/Users/sachinroy/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sachinroy/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sachinroy/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sachinroy/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/sachinroy"/>
     <property name="user.language" value="en"/>
@@ -24,12 +24,12 @@
     <property name="java.version.date" value="2021-07-20"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled"/>
+    <property name="basedir" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled/target/surefire/surefirebooter3738384004828076097.jar"/>
+    <property name="surefire.real.class.path" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch/target/surefire/surefirebooter15909286766060140612.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="16.0.2+7-67"/>
@@ -43,7 +43,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/nk/gr3533x90v53g6x3fknjsjt40000gn/T/"/>
     <property name="java.version" value="16.0.2"/>
-    <property name="user.dir" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/untitled"/>
+    <property name="user.dir" value="/Users/sachinroy/TestAutomation/Java/UIAutomation/Java_UI_AskOmDch/Java_UI_AskOmDch"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.library.path" value="/Users/sachinroy/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
@@ -54,221 +54,235 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="testArticleImageTwo" classname="com.askomdch.testcases.HomeTest" time="0.181">
-    <system-out><![CDATA[THREAD ID IS: 23
+  <testcase name="testArticleOneParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.156">
+    <system-out><![CDATA[THREAD ID IS: 27
+THREAD ID IS: 23
 THREAD ID IS: 25
-THREAD ID IS: 24
 THREAD ID IS: 26
-THREAD ID IS: 27
+THREAD ID IS: 24
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Sep 29, 2023 2:36:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testArticleImageTwo" classname="com.askomdch.testcases.HomeTest" time="0.053"/>
-  <testcase name="testArticleOneShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.07"/>
-  <testcase name="testArticleOneShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.106"/>
-  <testcase name="testArticleImageOne" classname="com.askomdch.testcases.HomeTest" time="0.034"/>
-  <testcase name="testArticleImageOne" classname="com.askomdch.testcases.HomeTest" time="0.052">
-    <system-out><![CDATA[THREAD ID IS: 328
-THREAD ID IS: 326
-THREAD ID IS: 330
-THREAD ID IS: 329
-THREAD ID IS: 327
+  <testcase name="testArticleOneParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.055"/>
+  <testcase name="testArticleOneShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.062">
+    <system-err><![CDATA[Sep 29, 2023 9:38:34 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+]]></system-err>
+  </testcase>
+  <testcase name="testArticleOneShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.074"/>
+  <testcase name="testArticleOneHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.07"/>
+  <testcase name="testArticleOneHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.137">
+    <system-out><![CDATA[THREAD ID IS: 338
+THREAD ID IS: 336
+THREAD ID IS: 340
+THREAD ID IS: 337
+THREAD ID IS: 339
 ]]></system-out>
   </testcase>
-  <testcase name="testArticleOneHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.048"/>
-  <testcase name="testArticleOneHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.01"/>
-  <testcase name="testArticleOneParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.054"/>
-  <testcase name="testArticleOneParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.046"/>
-  <testcase name="testArticleTwoParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.011">
-    <system-out><![CDATA[THREAD ID IS: 24
-THREAD ID IS: 27
-THREAD ID IS: 23
-THREAD ID IS: 25
+  <testcase name="testArticleImageOne" classname="com.askomdch.testcases.HomeTest" time="0.041"/>
+  <testcase name="testArticleImageOne" classname="com.askomdch.testcases.HomeTest" time="0.053"/>
+  <testcase name="testArticleImageTwo" classname="com.askomdch.testcases.HomeTest" time="0.103"/>
+  <testcase name="testArticleImageTwo" classname="com.askomdch.testcases.HomeTest" time="0.072"/>
+  <testcase name="testArticleTwoShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.046">
+    <system-out><![CDATA[THREAD ID IS: 27
 THREAD ID IS: 26
-]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-]]></system-err>
-  </testcase>
-  <testcase name="testArticleTwoParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.084"/>
-  <testcase name="testArticleTwoHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.066"/>
-  <testcase name="testArticleTwoHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.087"/>
-  <testcase name="testArticleOneShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.03"/>
-  <testcase name="testArticleOneShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.052">
-    <system-out><![CDATA[THREAD ID IS: 326
-THREAD ID IS: 330
-THREAD ID IS: 329
-THREAD ID IS: 327
-THREAD ID IS: 328
-]]></system-out>
-  </testcase>
-  <testcase name="testArticleTwoShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.371"/>
-  <testcase name="testArticleTwoShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.056"/>
-  <testcase name="testArticleTwoShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.066"/>
-  <testcase name="testArticleTwoShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.061"/>
-  <testcase name="testClickingOnFindMoreLinkOpensContactUsPage" classname="com.askomdch.testcases.HomeTest" time="0.59">
-    <system-out><![CDATA[THREAD ID IS: 23
-THREAD ID IS: 27
 THREAD ID IS: 24
+THREAD ID IS: 23
+THREAD ID IS: 25
+]]></system-out>
+    <system-err><![CDATA[Sep 29, 2023 9:38:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+]]></system-err>
+  </testcase>
+  <testcase name="testArticleTwoShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.054"/>
+  <testcase name="testArticleTwoHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.118"/>
+  <testcase name="testArticleTwoHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.063"/>
+  <testcase name="testArticleOneShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.088"/>
+  <testcase name="testArticleOneShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.056">
+    <system-out><![CDATA[THREAD ID IS: 338
+THREAD ID IS: 336
+]]></system-out>
+  </testcase>
+  <testcase name="testArticleTwoShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.408"/>
+  <testcase name="testArticleTwoShopNowLinkHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.068">
+    <system-out><![CDATA[THREAD ID IS: 340
+THREAD ID IS: 337
+THREAD ID IS: 339
+]]></system-out>
+  </testcase>
+  <testcase name="testArticleTwoParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.068"/>
+  <testcase name="testArticleTwoParagraphText" classname="com.askomdch.testcases.HomeTest" time="0.055"/>
+  <testcase name="testClickingOnFindMoreLinkOpensContactUsPage" classname="com.askomdch.testcases.HomeTest" time="0.025">
+    <system-out><![CDATA[THREAD ID IS: 23
+THREAD ID IS: 27
 THREAD ID IS: 26
 THREAD ID IS: 25
+THREAD ID IS: 24
 ]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Sep 29, 2023 9:38:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Sep 29, 2023 9:38:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testClickingOnFindMoreLinkOpensContactUsPage" classname="com.askomdch.testcases.HomeTest" time="1.626">
-    <system-out><![CDATA[THREAD ID IS: 326
-THREAD ID IS: 330
-THREAD ID IS: 329
-THREAD ID IS: 328
+  <testcase name="testClickingOnFindMoreLinkOpensContactUsPage" classname="com.askomdch.testcases.HomeTest" time="1.775">
+    <system-out><![CDATA[THREAD ID IS: 338
+THREAD ID IS: 336
 ]]></system-out>
   </testcase>
-  <testcase name="testClickingOnShopNowLinkOpensProductCategoryMenPage" classname="com.askomdch.testcases.HomeTest" time="2.094"/>
-  <testcase name="testClickingOnShopNowLinkOpensProductCategoryMenPage" classname="com.askomdch.testcases.HomeTest" time="0.283"/>
-  <testcase name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" classname="com.askomdch.testcases.HomeTest" time="0.166">
-    <system-out><![CDATA[THREAD ID IS: 27
+  <testcase name="testEmptyCartText" classname="com.askomdch.testcases.HomeTest" time="0.056"/>
+  <testcase name="testEmptyCartText" classname="com.askomdch.testcases.HomeTest" time="0.052">
+    <system-out><![CDATA[THREAD ID IS: 340
+THREAD ID IS: 337
+THREAD ID IS: 339
 ]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+  </testcase>
+  <testcase name="testClickingOnShopNowLinkOpensProductCategoryMenPage" classname="com.askomdch.testcases.HomeTest" time="0.263"/>
+  <testcase name="testClickingOnShopNowLinkOpensProductCategoryMenPage" classname="com.askomdch.testcases.HomeTest" time="0.147"/>
+  <testcase name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" classname="com.askomdch.testcases.HomeTest" time="1.134"/>
+  <testcase name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" classname="com.askomdch.testcases.HomeTest" time="2.105"/>
+  <testcase name="testClickingOnShopNowLinkOpensStorePage" classname="com.askomdch.testcases.HomeTest" time="1.642">
+    <system-err><![CDATA[Sep 29, 2023 9:38:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testClickingOnShopNowLinkOpensProductCategoryWomenPage" classname="com.askomdch.testcases.HomeTest" time="0.24">
-    <system-out><![CDATA[THREAD ID IS: 327
-]]></system-out>
-  </testcase>
-  <testcase name="testEmptyCartText" classname="com.askomdch.testcases.HomeTest" time="0.25"/>
-  <testcase name="testEmptyCartText" classname="com.askomdch.testcases.HomeTest" time="0.091"/>
-  <testcase name="testFindMoreHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.056">
+  <testcase name="testClickingOnShopNowLinkOpensStorePage" classname="com.askomdch.testcases.HomeTest" time="1.164"/>
+  <testcase name="testFeaturedProductsText" classname="com.askomdch.testcases.HomeTest" time="0.216">
     <system-out><![CDATA[THREAD ID IS: 23
+THREAD ID IS: 25
+THREAD ID IS: 27
 ]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Sep 29, 2023 9:38:50 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:50 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testFindMoreHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.042">
-    <system-out><![CDATA[THREAD ID IS: 327
+  <testcase name="testFeaturedProductsText" classname="com.askomdch.testcases.HomeTest" time="0.105">
+    <system-out><![CDATA[THREAD ID IS: 338
 ]]></system-out>
   </testcase>
-  <testcase name="testClickingOnShopNowLinkOpensStorePage" classname="com.askomdch.testcases.HomeTest" time="0.662">
-    <system-err><![CDATA[Sep 29, 2023 2:36:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+  <testcase name="testFindMoreHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.038">
+    <system-out><![CDATA[THREAD ID IS: 26
+THREAD ID IS: 24
+]]></system-out>
+  </testcase>
+  <testcase name="testFindMoreHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.032">
+    <system-out><![CDATA[THREAD ID IS: 338
+]]></system-out>
+  </testcase>
+  <testcase name="testLogoText" classname="com.askomdch.testcases.HomeTest" time="0.04"/>
+  <testcase name="testLogoText" classname="com.askomdch.testcases.HomeTest" time="0.068"/>
+  <testcase name="testFindMoreLinkText" classname="com.askomdch.testcases.HomeTest" time="0.044"/>
+  <testcase name="testFindMoreLinkText" classname="com.askomdch.testcases.HomeTest" time="0.062">
+    <system-out><![CDATA[THREAD ID IS: 339
+THREAD ID IS: 336
+THREAD ID IS: 337
+THREAD ID IS: 340
+]]></system-out>
+  </testcase>
+  <testcase name="testNavbarContentText" classname="com.askomdch.testcases.HomeTest" time="0.136">
+    <system-err><![CDATA[Sep 29, 2023 9:38:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testClickingOnShopNowLinkOpensStorePage" classname="com.askomdch.testcases.HomeTest" time="1.957"/>
-  <testcase name="testLogoText" classname="com.askomdch.testcases.HomeTest" time="0.069">
+  <testcase name="testNavbarContentText" classname="com.askomdch.testcases.HomeTest" time="0.117"/>
+  <testcase name="testPageHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.013">
+    <system-out><![CDATA[THREAD ID IS: 23
+THREAD ID IS: 25
+THREAD ID IS: 26
+THREAD ID IS: 27
+]]></system-out>
+    <system-err><![CDATA[Sep 29, 2023 9:38:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+]]></system-err>
+  </testcase>
+  <testcase name="testPageHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.06"/>
+  <testcase name="testPageHeaderFontWeight" classname="com.askomdch.testcases.HomeTest" time="0.056"/>
+  <testcase name="testPageHeaderFontWeight" classname="com.askomdch.testcases.HomeTest" time="0.066"/>
+  <testcase name="testPageSubHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.052">
+    <system-err><![CDATA[Sep 29, 2023 9:38:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+]]></system-err>
+  </testcase>
+  <testcase name="testPageSubHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.07">
+    <system-out><![CDATA[THREAD ID IS: 336
+THREAD ID IS: 339
+THREAD ID IS: 340
+THREAD ID IS: 337
+THREAD ID IS: 338
+]]></system-out>
+  </testcase>
+  <testcase name="testPageTitle" classname="com.askomdch.testcases.HomeTest" time="0.044">
     <system-out><![CDATA[THREAD ID IS: 24
 THREAD ID IS: 25
-]]></system-out>
-  </testcase>
-  <testcase name="testLogoText" classname="com.askomdch.testcases.HomeTest" time="0.052"/>
-  <testcase name="testNavbarContentText" classname="com.askomdch.testcases.HomeTest" time="0.016">
-    <system-out><![CDATA[THREAD ID IS: 27
-]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-]]></system-err>
-  </testcase>
-  <testcase name="testNavbarContentText" classname="com.askomdch.testcases.HomeTest" time="0.067"/>
-  <testcase name="testFindMoreLinkText" classname="com.askomdch.testcases.HomeTest" time="0.07"/>
-  <testcase name="testFindMoreLinkText" classname="com.askomdch.testcases.HomeTest" time="0.093">
-    <system-out><![CDATA[THREAD ID IS: 330
-THREAD ID IS: 326
-THREAD ID IS: 329
-]]></system-out>
-  </testcase>
-  <testcase name="testPageHeaderFontWeight" classname="com.askomdch.testcases.HomeTest" time="0.071">
-    <system-out><![CDATA[THREAD ID IS: 26
-]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-]]></system-err>
-  </testcase>
-  <testcase name="testPageHeaderFontWeight" classname="com.askomdch.testcases.HomeTest" time="0.031">
-    <system-out><![CDATA[THREAD ID IS: 328
-]]></system-out>
-  </testcase>
-  <testcase name="testPageHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.093">
-    <system-out><![CDATA[THREAD ID IS: 25
-]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-Sep 29, 2023 2:36:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-]]></system-err>
-  </testcase>
-  <testcase name="testPageHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.068">
-    <system-out><![CDATA[THREAD ID IS: 329
-]]></system-out>
-  </testcase>
-  <testcase name="testShopNowHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.046">
-    <system-out><![CDATA[THREAD ID IS: 24
 THREAD ID IS: 23
 ]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Sep 29, 2023 9:38:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
+Sep 29, 2023 9:38:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
 ]]></system-err>
   </testcase>
-  <testcase name="testShopNowHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.051"/>
-  <testcase name="testPageSubHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.047">
-    <system-out><![CDATA[THREAD ID IS: 27
-]]></system-out>
-  </testcase>
-  <testcase name="testPageSubHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.058">
-    <system-out><![CDATA[THREAD ID IS: 330
-THREAD ID IS: 326
-THREAD ID IS: 327
-]]></system-out>
-  </testcase>
-  <testcase name="testShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.03">
-    <system-out><![CDATA[THREAD ID IS: 26
-]]></system-out>
-    <system-err><![CDATA[Sep 29, 2023 2:36:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 117, so returning the closest version found: 116
-]]></system-err>
-  </testcase>
-  <testcase name="testShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.041">
-    <system-out><![CDATA[THREAD ID IS: 328
-]]></system-out>
-  </testcase>
-  <testcase name="testPageTitle" classname="com.askomdch.testcases.HomeTest" time="0.033"/>
-  <testcase name="testPageTitle" classname="com.askomdch.testcases.HomeTest" time="0.003"/>
-  <testcase name="testStoreHeaderText" classname="com.askomdch.testcases.HomeTest" time="0.95"/>
-  <testcase name="testStoreHeaderText" classname="com.askomdch.testcases.HomeTest" time="1.814">
-    <system-out><![CDATA[THREAD ID IS: 326
+  <testcase name="testPageTitle" classname="com.askomdch.testcases.HomeTest" time="0.013"/>
+  <testcase name="testShopNowHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.033"/>
+  <testcase name="testShopNowHrefAttr" classname="com.askomdch.testcases.HomeTest" time="0.061"/>
+  <testcase name="testShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.038"/>
+  <testcase name="testShopNowLinkText" classname="com.askomdch.testcases.HomeTest" time="0.082"/>
+  <testcase name="testStoreHeaderText" classname="com.askomdch.testcases.HomeTest" time="1.65"/>
+  <testcase name="testStoreHeaderText" classname="com.askomdch.testcases.HomeTest" time="1.712">
+    <system-out><![CDATA[THREAD ID IS: 339
 ]]></system-out>
   </testcase>
 </testsuite>
